@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zulfiqar!
+# 👋 Hi, I'm Zoolnurain!
 
 I'm a passionate developer and engineer with a strong focus on **AI**, **QT**, and **electrical projects**. I love tackling complex problems and creating solutions that integrate software and hardware in innovative ways.
 
